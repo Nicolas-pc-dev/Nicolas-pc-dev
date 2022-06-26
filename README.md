@@ -25,9 +25,12 @@
 
 
 ### Certifications 📜!
-- [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/certificate/UC-ea10b642-442f-4edf-b89b-eb5304a2f247/) @ Udemy
-- [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/certificate/UC-3d08c4b8-66f4-4f2d-8984-7fd6e9146a2a/) @ Udemy
-- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/certificate/UC-95e99ab6-8bea-49aa-b800-56c3dfde36fc/) @ Udemy
+- [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/certificate/UC-ea10b642-442f-4edf-b89b-eb5304a2f247/) @ Udemy, 
+dictated by Jonas Schmedtmann.
+- [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/certificate/UC-3d08c4b8-66f4-4f2d-8984-7fd6e9146a2a/) @ Udemy, 
+dictated by Dr. Angela Yu.
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/certificate/UC-95e99ab6-8bea-49aa-b800-56c3dfde36fc/) @ Udemy, 
+dictated by Maximilian Schwarzmüller.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
