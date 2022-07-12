@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px" />, I'm Nicolas </h1>
-<h3 align="center">Self-taught passionate FrontEnd developer from Colombia</h3>
+<h3 align="center">Self-taught passionate Fullstack developer from Colombia</h3>
 
 
 ## About me!
